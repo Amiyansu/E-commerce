@@ -6,7 +6,7 @@ const SearchContainer = styled(Box)`
   background: #fff;
   width: 38%;
   border-radius: 7px;
-  margin-left: 10px;
+  margin-left: 35px;
   display: flex;
 `;
 const InputSearchBase = styled(InputBase)`
@@ -18,6 +18,7 @@ const InputSearchBase = styled(InputBase)`
 const SearchIconWrapper = styled(Box)`
 color:red;
 padding:5px;
+display:flex;
 `;
 
 function Search() {
