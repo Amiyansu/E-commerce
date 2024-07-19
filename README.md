@@ -1,6 +1,6 @@
 # E-commerce Website - Flipcart
 
-Flipcart Website
+![Website Under Construction](website-under-construction.jpg)
 
 
 This project is a work-in-progress e-commerce website, Flipcart. Stay tuned for updates as we continue to develop and improve the site.
